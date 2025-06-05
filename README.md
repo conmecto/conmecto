@@ -2,7 +2,7 @@
 
 ### Backend & Applied AI Engineer
 
-- 💼 I have 5 years of experience as a Backend Engineer and 1-2 years working with Applied AI, React, and React Native.
+- 💼 I have 5 years of experience as a Backend Engineer and 2 years working with Applied AI, React, and React Native.
 - 🚀 I'm actively seeking new opportunities.
 - 🌱 My core skills include Node.js, TypeScript, JavaScript, Python, PostgreSQL, MongoDB, SQL, React, Next.js, and React Native.
 - 🤖 In Applied AI, I specialize in PyTorch, Vector Databases, LLMs, RAG, and Fine-tuning.
